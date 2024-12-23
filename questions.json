@@ -1,0 +1,218 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin"],
+        "correctAnswer": "Paris",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5"],
+        "correctAnswer": "4",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Beijing", "Tokyo", "Seoul"],
+        "correctAnswer": "Tokyo",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2"],
+        "correctAnswer": "H2O",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway"],
+        "correctAnswer": "Harper Lee",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome"],
+        "correctAnswer": "Mitochondria",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+        "correctAnswer": "Leonardo da Vinci",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter"],
+        "correctAnswer": "Mars",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Liver", "Skin"],
+        "correctAnswer": "Skin",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "options": ["0°C", "32°F", "100°C"],
+        "correctAnswer": "0°C",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+        "correctAnswer": "Albert Einstein",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn"],
+        "correctAnswer": "Jupiter",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Nile", "Amazon", "Yangtze"],
+        "correctAnswer": "Nile",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin"],
+        "correctAnswer": "J.K. Rowling",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Au'?",
+        "options": ["Silver", "Gold", "Iron"],
+        "correctAnswer": "Gold",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3"],
+        "correctAnswer": "2",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": ["Venice", "Rome", "Milan"],
+        "correctAnswer": "Rome",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "options": ["7", "8", "9"],
+        "correctAnswer": "9",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What year did the Titanic sink?",
+        "options": ["1912", "1911", "1910"],
+        "correctAnswer": "1912",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe"],
+        "correctAnswer": "Blue Whale",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yuan", "Yen", "Won"],
+        "correctAnswer": "Yen",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln"],
+        "correctAnswer": "George Washington",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen"],
+        "correctAnswer": "Nitrogen",
+        "difficulty": "Normal"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Cucumber"],
+        "correctAnswer": "Avocado",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest"],
+        "correctAnswer": "Mount Everest",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which country has the longest coastline in the world?",
+        "options": ["Australia", "Canada", "Russia"],
+        "correctAnswer": "Canada",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "correctAnswer": "Canberra",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which organelle is known as the control center of the cell?",
+        "options": ["Mitochondria", "Nucleus", "Ribosome"],
+        "correctAnswer": "Nucleus",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the most spoken language in the world?",
+        "options": ["Spanish", "English", "Mandarin"],
+        "correctAnswer": "Mandarin",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin"],
+        "correctAnswer": "Neil Armstrong",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Arctic", "Antarctic"],
+        "correctAnswer": "Antarctic",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which country won the first FIFA World Cup?",
+        "options": ["Brazil", "Argentina", "Uruguay"],
+        "correctAnswer": "Uruguay",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Mercury", "Iron", "Gold"],
+        "correctAnswer": "Mercury",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Tibia", "Humerus"],
+        "correctAnswer": "Femur",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2"],
+        "correctAnswer": "NaCl",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "options": ["Oxygen", "Hydrogen", "Nitrogen"],
+        "correctAnswer": "Nitrogen",
+        "difficulty": "Hard"
+    }
+]

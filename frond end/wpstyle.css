@@ -1,0 +1,41 @@
+
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#welcome-page {
+    margin-top: 50px;
+}
+
+#game-page {
+    margin-top: 20px;
+}
+
+#score-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#buzzer-container {
+    margin: 20px;
+}
+
+#question-container {
+    margin: 20px;
+}
+
+#options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.option {
+    padding: 10px;
+    border: 1px solid #000;
+    cursor: pointer;
+}

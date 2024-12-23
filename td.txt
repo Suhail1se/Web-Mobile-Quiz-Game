@@ -1,0 +1,5 @@
+1) welcome page
+2) score top right and top left.
+3) 5 seconds to click the buzzer, 5 seconds to choose an answer, 3 seconds to load the next question.
+4) key binds for options (can be modified). (welcome page)
+5) difficulty options before playing. (welcome page)

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buzzer Game</title>
+    <link rel="stylesheet" href="wpstyles.css">
+</head>
+<body>
+    <div id="welcome-page">
+        <h1>Welcome to the Buzzer Game</h1>
+        <form id="welcome-form">
+            <div>
+                <label for="difficulty">Select Difficulty:</label>
+                <select id="difficulty" name="difficulty">
+                    <option value="Easy">Easy</option>
+                    <option value="Normal">Normal</option>
+                    <option value="Hard">Hard</option>
+                </select>
+            </div>
+            <div>
+                <label for="key-bind-option-1">Key Bind for Option 1:</label>
+                <input type="text" id="key-bind-option-1" name="key-bind-option-1" value="1">
+            </div>
+            <div>
+                <label for="key-bind-option-2">Key Bind for Option 2:</label>
+                <input type="text" id="key-bind-option-2" name="key-bind-option-2" value="2">
+            </div>
+            <div>
+                <label for="key-bind-option-3">Key Bind for Option 3:</label>
+                <input type="text" id="key-bind-option-3" name="key-bind-option-3" value="3">
+            </div>
+            <button type="button" id="start-game">Start Game</button>
+        </form>
+    </div>
+    <div id="game-page" style="display:none;">
+        <div id="score-container">
+            <div id="left-score">Left Score: 0</div>
+            <div id="right-score">Right Score: 0</div>
+        </div>
+        <div id="buzzer-container">
+            <button id="leftBuzzer" style="background-color: red;">Left Buzzer</button>
+            <button id="rightBuzzer" style="background-color: red;">Right Buzzer</button>
+        </div>
+        <h1 id="result"></h1>
+        <div id="question-container">
+            <div id="question"></div>
+            <div id="options"></div>
+        </div>
+        <div id="answer-feedback"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
